@@ -15,3 +15,4 @@ data 관련 프로젝트와 공모전의 내용을 공유합니다.
 - 결과물 : https://drive.google.com/open?id=1XYQHvzhnY139RuBtn2kWDY0e2FcBC582
 ## 2019년도 엠브레인 패널 빅데이터 경진대회 (연세대학교 상경대학 주최)
 - 참가
+- 결과물 : https://drive.google.com/open?id=1P1xPWWVXLHKZVI6Kgm5Z0szIQvxO_yRw
